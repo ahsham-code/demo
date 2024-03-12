@@ -6,5 +6,6 @@ int main(){
     printf("git basics");
     printf("git command");
     printf("git rebase");
+    printf("git pull");
     return 0;
 }
