@@ -12,5 +12,6 @@ int main(){
     printf("git tag");
     printf("git commit");
     printf("git log");
+    printf("remote change");
     return 0;
 }
