@@ -13,5 +13,6 @@ int main(){
     printf("git commit");
     printf("git log");
     printf("remote change");
+    printf("local change");
     return 0;
 }
