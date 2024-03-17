@@ -10,5 +10,6 @@ int main(){
     printf("hello git");
     printf("git merge");
     printf("git tag");
+    printf("git commit");
     return 0;
 }
